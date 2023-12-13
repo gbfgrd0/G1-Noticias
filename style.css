@@ -1,0 +1,97 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Open Sans';
+}
+
+h5{
+    color: #555555;
+    font-size: 22px;
+    padding-top: 30px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    font-weight: 700;
+}
+
+small{
+    font-size: 17px;
+    color: #555555;
+}
+
+#logo{
+    display: inline;
+    position: absolute;
+    left: 100px;
+    top: 0px;
+    padding-top: 0px;
+    margin-top: 15px;
+    font-size: 40px;
+}
+
+#df{
+    display: inline;
+    position: absolute;
+    top: 15px;
+    left: 1000px;
+    margin: auto;
+    font-weight: 200;
+    font-size: 40px;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+}
+
+.cabeçalho{
+    background-color: #C4170C;
+    color: white;
+    text-align: center;
+    height: 90px;
+    margin: auto;
+    padding-top: 0px;
+}
+
+.top{
+    max-width: 1200px;
+    margin: auto;
+    height: 200px;
+    margin-top: 60px;
+    text-align: left;
+}
+
+.título{
+    height: 200px;
+    font-size: 35px;
+    text-align: left;
+    letter-spacing: -3px;
+    word-spacing: -1px;
+    line-height: 85px;
+    padding-bottom: 50px;
+}
+
+#subtítulo{
+    letter-spacing: normal;
+    word-spacing: normal;
+    color: #555555;
+    margin: auto;
+    font-size: 28px;
+    font-weight: 400;
+    margin-top: 40px;
+}
+
+.icons{
+    width: 25px;
+    text-align: right;
+    position: relative;
+    left: 910px;
+    padding: 0px 10px;
+}
+
+.autor{
+    padding-bottom: 20px;
+}
+
+.cometa{
+    max-width: 1000px;
+    padding-top: 50px;
+    padding-left: 80px;
+    margin: auto;
+}
